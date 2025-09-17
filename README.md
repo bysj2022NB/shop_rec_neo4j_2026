@@ -1,0 +1,2 @@
+# shop_rec_neo4j_2026
+计算机毕业设计对标硕论DeepSeek大模型+知识图谱Neo4J电商商品推荐系统 SpringBoot+Vue.js
